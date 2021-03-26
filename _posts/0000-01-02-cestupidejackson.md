@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Timon is eating Jan-Luc
 Use the left arrow to go back!
