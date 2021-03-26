@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-+ Timon is eating Jan-Luc  
++ Lorenz hat ein kleines Gehirn, was auch bewiesen wurde. 
 Use the left arrow to go back!
 
