@@ -3,4 +3,5 @@ layout: slide
 title: "Issue"
 ---
 
-+ Sie zeigt um welches **Problem** es sich handel und benötige Hilfe
+
++ Man kann nach Hilfe fragen und die anderen user können dir helfen. 
