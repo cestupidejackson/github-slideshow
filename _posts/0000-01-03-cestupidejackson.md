@@ -1,11 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Issue"
 ---
-+ Lorenz hat ein kleines Gehirn, was auch bewiesen wurde. 
-Use the left arrow to go back!
 
-
-# Issue #
-
-Sie zeigt um welches **Problem** es sich handel und benötige Hilfe
++ Sie zeigt um welches **Problem** es sich handel und benötige Hilfe
